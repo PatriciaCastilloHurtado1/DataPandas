@@ -1,2 +1,2 @@
-# DatosPandas
-Análisis de datos con Pandas
+# Python Course
+Python Course 2023
